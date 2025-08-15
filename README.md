@@ -19,7 +19,7 @@ This portfolio project demonstrates **end‑to‑end big data skills** using the
 
 - `001354599_COMP1702.pdf` — full report with screenshots (HDFS, Hive tables, queries, results).
 - `hive/airline_warehouse.sql` — DDL + example analytical queries to reproduce key results.
-- `mapreduce/README.md` — mapper/combiner/reducer pseudocode with rationale.
+- `Mapreduce_README.md` — mapper/combiner/reducer pseudocode with rationale.
 - `LICENSE`, `.gitignore`, `RELEASE_NOTES.md`.
 
 ## ▶️ Reproduce locally (Hadoop VM)
